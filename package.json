@@ -1,8 +1,8 @@
 {
-  "name": "nest-typescript-starter",
+  "name": "hoard-backend",
   "private": true,
-  "version": "1.0.0",
-  "description": "Nest TypeScript starter repository",
+  "version": "0.0.0",
+  "description": "A tool for managing your hoard of games",
   "license": "MIT",
   "scripts": {
     "build": "nest build",
